@@ -9,7 +9,7 @@ Install Platform.io https://platformio.org/
 ![Slide2](./images/getting-started/slide2.png)
 
 In a new window, select Clone Git Repository and clone the following repo:
-https://github.com/geappliances/home-assistant-adapter
+https://github.com/paulgoodjohn/home-assistant-adapter
 
 ![Slide3](./images/getting-started/slide3.png)
 
