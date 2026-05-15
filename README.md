@@ -64,3 +64,8 @@ make monitor
 ## Example Home Assistant Configuration
 
 Sample yaml can be found in https://github.com/geappliances/home-assistant-examples
+
+## ESPHome version
+
+While this code is plain ESP32 code, my pal Josh has taken the development on further with an ESPHome version that combines GEA3 and GEA2:
+https://github.com/joshualongenecker/home-assistant-bridge-esphome
