@@ -7,8 +7,6 @@
 #include "tiny_erd.h"
 
 static const tiny_erd_t commonErds[] = {
-  0x0001,
-  0x0002,
   0x0004,
   0x0005,
   0x0006,
